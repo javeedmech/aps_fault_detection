@@ -16,3 +16,6 @@ python main.py
 use wget to download data set
 
 https://raw.githubusercontent.com/avnyadav/sensor-fault-detection/main/aps_failure_training_set1.csv
+
+
+we are changing in neuro lab- javeed
